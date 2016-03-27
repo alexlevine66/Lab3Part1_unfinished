@@ -2,6 +2,6 @@
 #ifndef ADC_H
 #define	ADC_H
 
-void initADC(void);
+void initADC();
 
 #endif	/* ADC_H */
